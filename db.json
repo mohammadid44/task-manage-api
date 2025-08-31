@@ -1,0 +1,52 @@
+{
+  "boards": [
+    {
+      "id": "1756663859191",
+      "name": "My Tasks Board",
+      "description": "Tasks to keep organised",
+      "slug": "my-tasks-board",
+      "createdAt": "2025-08-31T18:10:59.191Z",
+      "updatedAt": "2025-08-31T18:12:32.141Z"
+    },
+    {
+      "id": "1756669390131",
+      "name": "New Board",
+      "description": "Tasks to keep organised",
+      "slug": "new-board-1756669390131",
+      "createdAt": "2025-08-31T19:43:10.131Z",
+      "updatedAt": "2025-08-31T19:43:10.131Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1756663880153",
+      "name": "Task Won't Do",
+      "description": "",
+      "icon": "☕️",
+      "status": 0,
+      "boardId": "1756663859191",
+      "createdAt": "2025-08-31T18:11:20.153Z",
+      "updatedAt": "2025-08-31T18:11:51.612Z"
+    },
+    {
+      "id": "1756663881665",
+      "name": "Task Completed",
+      "description": "",
+      "icon": "🏋️‍♂️",
+      "status": 2,
+      "boardId": "1756663859191",
+      "createdAt": "2025-08-31T18:11:21.665Z",
+      "updatedAt": "2025-08-31T18:12:09.472Z"
+    },
+    {
+      "id": "1756663882804",
+      "name": "Task in Progress",
+      "description": "",
+      "icon": "⏰",
+      "status": 1,
+      "boardId": "1756663859191",
+      "createdAt": "2025-08-31T18:11:22.804Z",
+      "updatedAt": "2025-08-31T18:11:22.804Z"
+    }
+  ]
+}
