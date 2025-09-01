@@ -7,14 +7,6 @@
       "slug": "my-tasks-board",
       "createdAt": "2025-08-31T18:10:59.191Z",
       "updatedAt": "2025-08-31T18:12:32.141Z"
-    },
-    {
-      "id": "1756669390131",
-      "name": "New Board",
-      "description": "Tasks to keep organised",
-      "slug": "new-board-1756669390131",
-      "createdAt": "2025-08-31T19:43:10.131Z",
-      "updatedAt": "2025-08-31T19:43:10.131Z"
     }
   ],
   "tasks": [
